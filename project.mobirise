@@ -21,13 +21,14 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#9f832a"
+        "#9f832a",
+        "#2a0707"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.3",
     "siteFonts": [],
-    "uniqCompNum": 10,
+    "uniqCompNum": 12,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -255,7 +256,7 @@
             "bgColor": "#fff"
           },
           "title": "Premium Entertainment",
-          "meta": "Click here for more Vids &amp; Photos",
+          "meta": "-justincphotography photo credit above. &nbsp;Click here for more Vids &amp; Photos",
           "_tags": [
             "Theme"
           ],
@@ -447,6 +448,26 @@
           ],
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-8"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2a0707",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<p>Site Created by Brian Cieplak&nbsp; &nbsp;-&nbsp;<a href=\"https://www.instagram.com/justincphotography/\" target=\"_blank\">justincphotography</a>&nbsp;-photo credit for pics of Sean at Bourbon Street &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-a"
         }
       ]
     }
