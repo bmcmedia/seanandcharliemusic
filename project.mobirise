@@ -434,7 +434,7 @@
             "overlayOpacity": 0.5
           },
           "text": "CONNECT WITH US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-warning\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 42px;\"></span></a>         ",
           "_tags": [
             "Theme"
           ],
