@@ -193,7 +193,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "61",
             "paddingTop": "6",
             "paddingBottom": "6",
