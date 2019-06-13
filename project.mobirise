@@ -23,7 +23,8 @@
       "additionalSetColors": [
         "#9f832a",
         "#083512",
-        "#093613"
+        "#093613",
+        "#86a38c"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -58,7 +59,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#093613",
+            "bgColor": "#86a38c",
             "fontSize": "1.05",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -96,13 +97,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#020a04"
+              "background": "#6a8c71"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#07290e!important"
+              "background": "#7d9c84!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#093613"
+              "background": "#86a38c"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
